@@ -1,7 +1,6 @@
 body {
     background-image: url("colorful-books.jpeg");
     background-size: cover;
-    height: 100vh;
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
     text-align: center;
@@ -25,8 +24,8 @@ h2 {
     border-bottom: 4px solid green;
     border-left: 4px solid yellow;
     border-radius: 10px;
-    max-width: 80%;
-    margin: auto;
+    max-width: 50%;
+    margin: 250px auto;
 }
 
 button {
